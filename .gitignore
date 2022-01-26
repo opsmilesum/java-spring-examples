@@ -3,3 +3,8 @@
 /pom-spring-boot.xml
 /target
 /.idea
+build-spring-boot.gradle
+build.gradle
+gradlew
+java-spring-examples.iml
+settings.gradle
