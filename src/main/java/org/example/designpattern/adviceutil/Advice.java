@@ -1,4 +1,4 @@
-package org.example.designpattern.advice;
+package org.example.designpattern.adviceutil;
 
 public interface Advice<T> {
   void onEnter();

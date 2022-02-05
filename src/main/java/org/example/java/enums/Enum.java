@@ -1,4 +1,4 @@
-package org.example.designpattern.enums;
+package org.example.java.enums;
 
 public enum Enum {
   CAT {

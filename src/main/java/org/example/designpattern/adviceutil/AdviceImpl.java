@@ -1,4 +1,4 @@
-package org.example.designpattern.advice;
+package org.example.designpattern.adviceutil;
 
 public class AdviceImpl {
   static class Student {}
